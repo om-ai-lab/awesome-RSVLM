@@ -5,6 +5,30 @@ To add your work to this repo, feel free to submit the request or contact me at 
 
 
 ## Paper List
+- **A Prior Instruction Representation Framework for Remote Sensing Image-text Retrieval** (2023.10) [[pdf]](https://dl.acm.org/doi/10.1145/3581783.3612374)
+  - Jiancheng Pan, Qing Ma, Cong Bai
+
+
+- **A Fine-Grained Semantic Alignment Method Specific to Aggregate Multi-Scale Information for Cross-Modal Remote Sensing Image Retrieval** (2023.10) [[pdf]](https://www.mdpi.com/1424-8220/23/20/8437)
+  - Fuzhong Zheng, Xu Wang, Luyao Wang, Xiong Zhang, Hongze Zhu, Long Wang and Haisu Zhang
+
+
+- **Multilanguage Transformer for Improved Text to Remote Sensing Image Retrieval** (2023.10) [[pdf]](https://ieeexplore.ieee.org/document/9925582)
+  - Mohamad M. Al Rahhal; Yakoub Bazi; Norah A. Alsharif; Laila Bashmal; Naif Alajlan; Farid Melgani
+
+ 
+- **A Fusion Encoder with Multi-Task Guidance for Cross-Modal Text–Image Retrieval in Remote Sensing** (2023.09) [[pdf]](https://www.mdpi.com/2072-4292/15/18/4637)
+  - Xiong Zhang, Weipeng Li , Xu Wang, Luyao Wang, Fuzhong Zheng, Long Wang and Haisu Zhang
+
+ 
+- **Parameter-Efficient Transfer Learning for Remote Sensing Image-Text Retrieval** (2023.09) [[pdf]](https://arxiv.org/abs/2308.12509)
+  - Yuan Yuan, Yang Zhan, Zhitong Xiong
+
+  
+- **Hypersphere-based remote sensing cross-modal text–image retrieval via curriculum learning** (2023.09) [[pdf]](https://ieeexplore.ieee.org/document/10261223)
+  - Weihang Zhang, Jihao Li, Shuoke Li, Jialiang Chen, Wenkai Zhang, Xin Gao, Xian Sun
+
+
 - **RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model** (2023.06) [[pdf]](https://arxiv.org/abs/2306.11300)
   - Zilun Zhang, Tiancheng Zhao, Yulong Guo, Jianwei Yin 
 
