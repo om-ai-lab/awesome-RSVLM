@@ -5,6 +5,11 @@ To add your work to this repo, feel free to submit the request or contact me at 
 
 
 ## Paper List
+
+- **EarthVQA: Towards Queryable Earth via Relational Reasoning-Based Remote Sensing Visual Question Answering** (2023.12) [[pdf]](https://www.researchgate.net/publication/376519677_EarthVQA_Towards_Queryable_Earth_via_Relational_Reasoning-Based_Remote_Sensing_Visual_Question_Answering)
+  - Junjue Wang, Zhuo Zheng, Zihang Chen, Ailong Ma, and Yanfei Zhong
+ 
+
 - **A Prior Instruction Representation Framework for Remote Sensing Image-text Retrieval** (2023.10) [[pdf]](https://dl.acm.org/doi/10.1145/3581783.3612374)
   - Jiancheng Pan, Qing Ma, Cong Bai
 
