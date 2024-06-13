@@ -49,6 +49,10 @@ To add your work to this repo, feel free to submit the request or contact me at 
 - **Vision-Language Models in Remote Sensing: Current Progress and Future Trends** (2023.05) [[pdf]](https://arxiv.org/abs/2305.05726)
   - Congcong Wen, Yuan Hu, Xiang Li, Zhenghang Yuan, Xiao Xiang Zhu
 
+ 
+- **SATIN: A Multi-Task Metadataset for Classifying Satellite Imagery using Vision-Language Models** (2023.04) [[pdf]](https://arxiv.org/abs/2304.11619)
+  - Jonathan Roberts, Kai Han, Samuel Albanie
+
 
 - **MCRN: A Multi-source Cross-modal Retrieval Network for remote sensing** (2022.12) [[pdf]](https://www.sciencedirect.com/science/article/pii/S156984322200259X)
   - Zhiqiang Yuan, Wenkai Zhang, Changyuan Tian, Yongqiang Mao, Ruixue Zhou, Hongqi Wang, Kun Fu, Xian Sun
